@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    Bienvenue sur notre page  Bienvenue
+    Bienvenue sur notre page
     
 </body>
 </html>
